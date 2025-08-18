@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![github](https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0)
+
+I'm Shashank Singh, an AI & Full Stack Developer passionate about building intelligent chatbots, scalable APIs, and robust web applications. Always exploring new technologies to deliver impactful solutions! 🚀
+
+
+
 <!--
 **shasanksingh/shasanksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
