@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:06B6D4&height=190&section=header&text=Shashank%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Product%20Engineer%20%7C%20Backend%20%2B%20Full-Stack%20Developer&descAlignY=56&descSize=16" alt="Shashank Singh profile banner" />
+</p>
+
 <h1 align="center">Hi, I'm Shashank Singh</h1>
 
 <p align="center">
@@ -11,7 +15,17 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="760" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+and+developer+tools;FastAPI+%7C+RAG+%7C+LLMs+%7C+Vector+Search;Clean+UX%2C+scalable+APIs%2C+and+production-ready+systems" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shasanksingh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shasanksingh?label=Followers&style=for-the-badge&color=06b6d4" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shasanksingh/ats-resume-ai?label=ATS%20Resume%20Studio&style=for-the-badge&color=f59e0b" alt="ATS Resume Studio stars" />
 </p>
 
 ---
@@ -26,6 +40,23 @@ My current work and projects focus on **Generative AI**, **RAG pipelines**, **Fa
 - Designing backend APIs, automation workflows, and developer-focused tools
 - Exploring LLM applications, vector databases, MCP workflows, and production-ready AI systems
 - Turning rough ideas into clean, usable software
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>Product Thinking</strong><br />
+      I shape ideas into usable workflows, not just demos.
+    </td>
+    <td width="33%">
+      <strong>Backend Depth</strong><br />
+      I build FastAPI systems, integrations, retrieval flows, and automation services.
+    </td>
+    <td width="33%">
+      <strong>Clean Interfaces</strong><br />
+      I care about responsive UI, readable journeys, and polished developer experience.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -72,6 +103,15 @@ My current work and projects focus on **Generative AI**, **RAG pipelines**, **Fa
 | [Growify Virtual Try-On](https://github.com/shasanksingh/growify-virtual-tryon) | Frontend product experience for virtual try-on workflows. | TypeScript |
 | [Portfolio](https://github.com/shasanksingh/Portfolio) | Personal portfolio website showcasing work, skills, and project links. | HTML, CSS, JavaScript |
 
+<p align="center">
+  <a href="https://github.com/shasanksingh/ats-resume-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=ats-resume-ai&theme=tokyonight&hide_border=true" alt="ATS Resume Studio pinned card" />
+  </a>
+  <a href="https://github.com/shasanksingh/sql-copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=sql-copilot&theme=tokyonight&hide_border=true" alt="SQL Copilot pinned card" />
+  </a>
+</p>
+
 ---
 
 ## GitHub Snapshot
@@ -86,6 +126,10 @@ My current work and projects focus on **Generative AI**, **RAG pipelines**, **Fa
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shasanksingh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasanksingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
 </p>
 
 ---
@@ -125,4 +169,8 @@ My current work and projects focus on **Generative AI**, **RAG pipelines**, **Fa
 
 <p align="center">
   <strong>Thanks for visiting. Let's build practical AI products that actually help people.</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:4F46E5,100:111827&height=110&section=footer" alt="Footer wave" />
 </p>
