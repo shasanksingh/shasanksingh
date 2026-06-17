@@ -9,17 +9,30 @@
 </p>
 
 <p align="center">
-  <a href="https://creativegaiety.netlify.app/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/shashank-singh2003/">LinkedIn</a> |
-  <a href="mailto:singhshasank50@gmail.com">Email</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=950&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-powered+products+that+feel+simple;FastAPI+%2B+Next.js+%2B+Python+%2B+RAG;Product-minded+engineering+with+clean+UX;Backend+systems%2C+copilots%2C+and+automation" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="760" />
+  <a href="https://creativegaiety.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-singh2003/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:singhshasank50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/shasanksingh">
+    <img src="https://img.shields.io/badge/GitHub-shasanksingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+and+developer+tools;FastAPI+%7C+RAG+%7C+LLMs+%7C+Vector+Search;Clean+UX%2C+scalable+APIs%2C+and+production-ready+systems" alt="Typing intro" />
+  <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="390" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:06B6D4,100:22C55E&height=3&section=header" alt="Gradient divider" />
 </p>
 
 <p align="center">
@@ -40,6 +53,12 @@ My current work and projects focus on **Generative AI**, **RAG pipelines**, **Fa
 - Designing backend APIs, automation workflows, and developer-focused tools
 - Exploring LLM applications, vector databases, MCP workflows, and production-ready AI systems
 - Turning rough ideas into clean, usable software
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently%20Building-ATS%20Resume%20Studio-4F46E5?style=for-the-badge" alt="Currently building ATS Resume Studio" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Copilots%20%2B%20Backend%20Systems-06B6D4?style=for-the-badge" alt="Focus AI copilots and backend systems" />
+  <img src="https://img.shields.io/badge/Style-Clean%20UX%20%2B%20Practical%20Automation-22C55E?style=for-the-badge" alt="Style clean UX and practical automation" />
+</p>
 
 <table>
   <tr>
