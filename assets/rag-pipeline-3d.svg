@@ -1,0 +1,86 @@
+<svg width="960" height="300" viewBox="0 0 960 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pipeline-bg" x1="18" y1="18" x2="940" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#101A33"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="104" y1="162" x2="858" y2="162" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="pipeline-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="298" rx="8" fill="url(#pipeline-bg)" stroke="#253A5C" stroke-width="2"/>
+  <g font-family="Inter, Segoe UI, sans-serif">
+    <text x="42" y="48" fill="#E2E8F0" font-size="20" font-weight="750">RAG delivery path</text>
+    <text x="42" y="72" fill="#64748B" font-size="13">Evidence moves forward. Guardrails stay visible.</text>
+  </g>
+
+  <path d="M113 170H851" stroke="#1E3A5F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M113 170H851" stroke="url(#flow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 14">
+    <animate attributeName="stroke-dashoffset" values="0;-104" dur="4s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter, Segoe UI, sans-serif" text-anchor="middle">
+    <g transform="translate(130 147)">
+      <animateTransform attributeName="transform" type="translate" values="130 147;130 139;130 147" dur="4s" repeatCount="indefinite"/>
+      <path d="M0 -42L50 -17L0 8L-50 -17L0 -42Z" fill="#0EA5E9" stroke="#7DD3FC"/>
+      <path d="M-50 -17L0 8V48L-50 23V-17Z" fill="#075985" stroke="#38BDF8" stroke-opacity="0.55"/>
+      <path d="M50 -17L0 8V48L50 23V-17Z" fill="#0C4A6E" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <text x="0" y="0" fill="#F0F9FF" font-size="12" font-weight="800">QUERY</text>
+      <text x="0" y="73" fill="#7DD3FC" font-size="11" font-weight="700">EXPAND</text>
+    </g>
+
+    <g transform="translate(308 147)">
+      <animateTransform attributeName="transform" type="translate" values="308 147;308 139;308 147" dur="4s" begin="-0.8s" repeatCount="indefinite"/>
+      <path d="M0 -42L50 -17L0 8L-50 -17L0 -42Z" fill="#14B8A6" stroke="#99F6E4"/>
+      <path d="M-50 -17L0 8V48L-50 23V-17Z" fill="#115E59" stroke="#2DD4BF" stroke-opacity="0.55"/>
+      <path d="M50 -17L0 8V48L50 23V-17Z" fill="#134E4A" stroke="#2DD4BF" stroke-opacity="0.45"/>
+      <text x="0" y="0" fill="#F0FDFA" font-size="12" font-weight="800">SEARCH</text>
+      <text x="0" y="73" fill="#5EEAD4" font-size="11" font-weight="700">HYBRID</text>
+    </g>
+
+    <g transform="translate(486 147)">
+      <animateTransform attributeName="transform" type="translate" values="486 147;486 139;486 147" dur="4s" begin="-1.6s" repeatCount="indefinite"/>
+      <path d="M0 -42L50 -17L0 8L-50 -17L0 -42Z" fill="#3B82F6" stroke="#BFDBFE"/>
+      <path d="M-50 -17L0 8V48L-50 23V-17Z" fill="#1D4ED8" stroke="#60A5FA" stroke-opacity="0.55"/>
+      <path d="M50 -17L0 8V48L50 23V-17Z" fill="#1E3A8A" stroke="#60A5FA" stroke-opacity="0.45"/>
+      <text x="0" y="0" fill="#EFF6FF" font-size="12" font-weight="800">RERANK</text>
+      <text x="0" y="73" fill="#93C5FD" font-size="11" font-weight="700">VALIDATE</text>
+    </g>
+
+    <g transform="translate(664 147)">
+      <animateTransform attributeName="transform" type="translate" values="664 147;664 139;664 147" dur="4s" begin="-2.4s" repeatCount="indefinite"/>
+      <path d="M0 -42L50 -17L0 8L-50 -17L0 -42Z" fill="#8B5CF6" stroke="#DDD6FE"/>
+      <path d="M-50 -17L0 8V48L-50 23V-17Z" fill="#6D28D9" stroke="#A78BFA" stroke-opacity="0.55"/>
+      <path d="M50 -17L0 8V48L50 23V-17Z" fill="#4C1D95" stroke="#A78BFA" stroke-opacity="0.45"/>
+      <text x="0" y="0" fill="#F5F3FF" font-size="12" font-weight="800">LLM</text>
+      <text x="0" y="73" fill="#C4B5FD" font-size="11" font-weight="700">GROUND</text>
+    </g>
+
+    <g transform="translate(842 147)">
+      <animateTransform attributeName="transform" type="translate" values="842 147;842 139;842 147" dur="4s" begin="-3.2s" repeatCount="indefinite"/>
+      <path d="M0 -42L50 -17L0 8L-50 -17L0 -42Z" fill="#EC4899" stroke="#FBCFE8"/>
+      <path d="M-50 -17L0 8V48L-50 23V-17Z" fill="#BE185D" stroke="#F472B6" stroke-opacity="0.55"/>
+      <path d="M50 -17L0 8V48L50 23V-17Z" fill="#831843" stroke="#F472B6" stroke-opacity="0.45"/>
+      <text x="0" y="0" fill="#FDF2F8" font-size="12" font-weight="800">ANSWER</text>
+      <text x="0" y="73" fill="#F9A8D4" font-size="11" font-weight="700">CITE</text>
+    </g>
+  </g>
+
+  <circle r="7" fill="#F8FAFC" filter="url(#pipeline-glow)">
+    <animateMotion path="M113 170H851" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="4" fill="#22D3EE" filter="url(#pipeline-glow)">
+    <animateMotion path="M113 170H851" dur="5s" begin="-2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

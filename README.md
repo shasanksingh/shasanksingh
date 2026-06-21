@@ -1,195 +1,182 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4F46E5,100:06B6D4&height=190&section=header&text=Shashank%20Singh&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Product%20Engineer%20%7C%20Backend%20%2B%20Full-Stack%20Developer&descAlignY=56&descSize=16" alt="Shashank Singh profile banner" />
-</p>
-
-<h1 align="center">Hi, I'm Shashank Singh</h1>
-
-<p align="center">
-  <strong>Product Engineer at Tata Consultancy Services Ltd. | AI Engineer | Backend & Full-Stack Developer</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1224,48:2563EB,100:22D3EE&height=150&section=header&text=Shashank%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Product%20Engineer%20%7C%20Backend%20Systems&descAlignY=57&descSize=15" alt="Shashank Singh profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=950&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-powered+products+that+feel+simple;FastAPI+%2B+Next.js+%2B+Python+%2B+RAG;Product-minded+engineering+with+clean+UX;Backend+systems%2C+copilots%2C+and+automation" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=42&lines=Building+production-ready+AI+systems;RAG+pipelines%2C+AI+agents%2C+and+FastAPI;Grounded+LLM+products+with+clean+UX" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://creativegaiety.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/shashank-singh2003/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:singhshasank50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/shasanksingh">
-    <img src="https://img.shields.io/badge/GitHub-shasanksingh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="390" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:06B6D4,100:22C55E&height=3&section=header" alt="Gradient divider" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shasanksingh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shasanksingh?label=Followers&style=for-the-badge&color=06b6d4" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/shasanksingh/ats-resume-ai?label=ATS%20Resume%20Studio&style=for-the-badge&color=f59e0b" alt="ATS Resume Studio stars" />
-</p>
-
----
-
-## About Me
-
-I'm Shashank Singh, a Product Engineer at **Tata Consultancy Services Ltd.** based in Gurugram. I enjoy building intelligent products that combine backend engineering, AI workflows, clean user experience, and practical automation.
-
-My current work and projects focus on **Generative AI**, **RAG pipelines**, **FastAPI systems**, **semantic search**, **LLM-powered copilots**, and full-stack applications that are useful, scalable, and easy to use.
-
-- Building AI-first products with Python, FastAPI, RAG, FAISS, and local open-source models
-- Designing backend APIs, automation workflows, and developer-focused tools
-- Exploring LLM applications, vector databases, MCP workflows, and production-ready AI systems
-- Turning rough ideas into clean, usable software
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently%20Building-ATS%20Resume%20Studio-4F46E5?style=for-the-badge" alt="Currently building ATS Resume Studio" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Copilots%20%2B%20Backend%20Systems-06B6D4?style=for-the-badge" alt="Focus AI copilots and backend systems" />
-  <img src="https://img.shields.io/badge/Style-Clean%20UX%20%2B%20Practical%20Automation-22C55E?style=for-the-badge" alt="Style clean UX and practical automation" />
 </p>
 
 <table>
   <tr>
-    <td width="33%">
-      <strong>Product Thinking</strong><br />
-      I shape ideas into usable workflows, not just demos.
+    <td width="64%" valign="middle">
+      <h2>AI systems with product discipline</h2>
+      <p>
+        I am a Product Engineer at <strong>Tata Consultancy Services</strong>, focused on turning AI capabilities into dependable products. My work combines retrieval, agent workflows, typed backend services, evaluation, and interfaces that make system behavior understandable.
+      </p>
+      <p>
+        <strong>Current focus:</strong> production RAG, AI copilots, FastAPI services, local models, vector search, and intelligent automation.
+      </p>
     </td>
-    <td width="33%">
-      <strong>Backend Depth</strong><br />
-      I build FastAPI systems, integrations, retrieval flows, and automation services.
-    </td>
-    <td width="33%">
-      <strong>Clean Interfaces</strong><br />
-      I care about responsive UI, readable journeys, and polished developer experience.
+    <td width="36%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="260" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/ai-core-3d.svg" alt="Animated 3D production AI system core" width="860" />
+</p>
 
-## Skills & Technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shasanksingh&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shasanksingh?label=Followers&style=flat-square&color=06b6d4" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shasanksingh/ats-resume-ai?label=ATS%20Resume%20AI&style=flat-square&color=f59e0b" alt="ATS Resume AI stars" />
+</p>
 
-### Languages & Core
+## What I Build
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Retrieval systems</h3>
+      <p>Chunking, embeddings, hybrid search, vector indexes, reranking, grounded generation, and citation-ready responses.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Agents and copilots</h3>
+      <p>Planning, tool use, schema awareness, validation, memory, and human review for practical workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI product backends</h3>
+      <p>FastAPI services, typed contracts, model orchestration, PostgreSQL boundaries, deployment, and observable failure states.</p>
+    </td>
+  </tr>
+</table>
 
-### AI, ML & Retrieval
+## Production RAG Flow
 
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111)
-![FAISS](https://img.shields.io/badge/FAISS-0EA5E9?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
+<p align="center">
+  <img src="./assets/rag-pipeline-3d.svg" alt="Animated isometric RAG pipeline" width="860" />
+</p>
 
-### Backend, Frontend & Tools
+The pipeline is treated as an engineered system: expand the request, retrieve evidence, rerank context, constrain generation, and return an answer that can be inspected.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Technology Stack
 
----
+### AI and retrieval
 
-## Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
+![FAISS](https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
 
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| [ATS Resume Studio](https://github.com/shasanksingh/ats-resume-ai) | Full-stack ATS resume analyzer with upload, parsing, JD matching, local role guidance, optimization, DOCX/PDF export, and Jake's Resume LaTeX generation. | FastAPI, Next.js, Python, RAG, ChromaDB, LaTeX |
-| [SQL Copilot](https://github.com/shasanksingh/sql-copilot) | Text-to-SQL copilot focused on schema-aware query generation and explainable assistant workflows. | Python, FastAPI, RAG, FAISS |
-| [Semantic RAG Assessment](https://github.com/shasanksingh/semantic-rag-assessment) | Semantic retrieval project using embeddings and vector search for context-aware results. | Python, Vector Search, RAG |
-| [PayPilot AI](https://github.com/shasanksingh/paypilot-ai) | AI/product engineering project exploring intelligent workflow automation. | Python |
-| [Growify Virtual Try-On](https://github.com/shasanksingh/growify-virtual-tryon) | Frontend product experience for virtual try-on workflows. | TypeScript |
-| [Portfolio](https://github.com/shasanksingh/Portfolio) | Personal portfolio website showcasing work, skills, and project links. | HTML, CSS, JavaScript |
+### Backend and data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Product frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shasanksingh/ats-resume-ai">ATS Resume AI</a></h3>
+      <p>Resume intelligence system with parsing, ATS checks, role-aware retrieval, grounded recommendations, optimization, and document export.</p>
+      <p><code>FastAPI</code> <code>Next.js</code> <code>RAG</code> <code>ChromaDB</code> <code>Local models</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shasanksingh/sql-copilot">SQL Copilot</a></h3>
+      <p>Schema-aware analytical copilot that plans intent, generates safer SQL, validates assumptions, and explains results.</p>
+      <p><code>Python</code> <code>SQL</code> <code>LLM</code> <code>Validation</code> <code>FastAPI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shasanksingh/semantic-rag-assessment">Semantic RAG Assessment</a></h3>
+      <p>Focused retrieval implementation for embeddings, semantic matching, vector search, and grounded context preparation.</p>
+      <p><code>Python</code> <code>Embeddings</code> <code>Vector search</code> <code>RAG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shasanksingh/Portfolio">AI Engineering Portfolio</a></h3>
+      <p>Multi-page product portfolio with research notes, interactive AI architecture, 3D visuals, and static Netlify delivery.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>Framer Motion</code></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/shasanksingh/ats-resume-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=ats-resume-ai&theme=tokyonight&hide_border=true" alt="ATS Resume Studio pinned card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=ats-resume-ai&theme=tokyonight&hide_border=true" alt="ATS Resume AI repository card" width="47%" />
   </a>
   <a href="https://github.com/shasanksingh/sql-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=sql-copilot&theme=tokyonight&hide_border=true" alt="SQL Copilot pinned card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=sql-copilot&theme=tokyonight&hide_border=true" alt="SQL Copilot repository card" width="47%" />
   </a>
 </p>
 
----
+## Current Engineering Focus
 
-## GitHub Snapshot
+- Making RAG answers more grounded through hybrid retrieval, reranking, and evaluation
+- Building constrained AI agents with visible plans, tool boundaries, and review steps
+- Designing FastAPI services that expose model capabilities through reliable product contracts
+- Improving deployment, observability, latency, and failure handling for production AI workflows
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasanksingh&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashank's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shasanksingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shashank Singh GitHub statistics" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasanksingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" width="39%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasanksingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasanksingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="92%" />
 </p>
+
+## Connect
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shasanksingh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasanksingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
-</p>
-
----
-
-## Current Focus
-
-- Improving AI resume tooling with local-first analysis, ATS scoring, and explainable optimization
-- Building schema-aware copilots and practical RAG systems
-- Designing cleaner full-stack product experiences with Next.js and FastAPI
-- Learning deeper production patterns for AI workflows, deployment, and observability
-
----
-
-## Profile Metrics
-
-| Public Repositories | Followers | Following |
-| --- | --- | --- |
-| 18 | 3 | 5 |
-
----
-
-## Connect With Me
-
-<p>
+  <a href="https://creativegaiety.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-creativegaiety.netlify.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/shashank-singh2003/">
     <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://creativegaiety.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="mailto:singhshasank50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-singhshasank50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <strong>Thanks for visiting. Let's build practical AI products that actually help people.</strong>
+  <strong>Building AI products that are useful, inspectable, and ready to ship.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:4F46E5,100:111827&height=110&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,52:2563EB,100:0B1224&height=90&section=footer" alt="Footer wave" width="100%" />
 </p>
