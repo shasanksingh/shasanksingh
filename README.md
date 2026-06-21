@@ -45,26 +45,26 @@
   <img src="https://img.shields.io/github/stars/shasanksingh/ats-resume-ai?label=ATS%20Resume%20AI&style=flat-square&color=f59e0b" alt="ATS Resume AI stars" />
 </p>
 
-## What I Build
+## 🧩 What I Build
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Retrieval systems</h3>
+      <h3>🔎 Retrieval systems</h3>
       <p>Chunking, embeddings, hybrid search, vector indexes, reranking, grounded generation, and citation-ready responses.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Agents and copilots</h3>
+      <h3>🧠 Agents and copilots</h3>
       <p>Planning, tool use, schema awareness, validation, memory, and human review for practical workflows.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>AI product backends</h3>
+      <h3>⚙️ AI product backends</h3>
       <p>FastAPI services, typed contracts, model orchestration, PostgreSQL boundaries, deployment, and observable failure states.</p>
     </td>
   </tr>
 </table>
 
-## Production RAG Flow
+## 🔄 Production RAG Flow
 
 <p align="center">
   <img src="./assets/rag-pipeline-3d.svg" alt="Animated isometric RAG pipeline" width="860" />
@@ -72,7 +72,7 @@
 
 The pipeline is treated as an engineered system: expand the request, retrieve evidence, rerank context, constrain generation, and return an answer that can be inspected.
 
-## Agent Workflow
+## 🤖 Agent Workflow
 
 <p align="center">
   <img src="./assets/agent-loop-3d.svg" alt="Animated 3D agent planning and tool workflow" width="860" />
@@ -80,7 +80,7 @@ The pipeline is treated as an engineered system: expand the request, retrieve ev
 
 The agent loop keeps planning, retrieval, memory, tool use, and validation visible instead of hiding the workflow behind one prompt.
 
-## Technology Stack
+## 🧰 Technology Stack
 
 ### AI and retrieval
 
@@ -111,29 +111,29 @@ The agent loop keeps planning, retrieval, memory, tool use, and validation visib
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
 
-## Featured Work
+## 🚀 Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shasanksingh/ats-resume-ai">ATS Resume AI</a></h3>
+      <h3>📄 <a href="https://github.com/shasanksingh/ats-resume-ai">ATS Resume AI</a></h3>
       <p>Resume intelligence system with parsing, ATS checks, role-aware retrieval, grounded recommendations, optimization, and document export.</p>
       <p><code>FastAPI</code> <code>Next.js</code> <code>RAG</code> <code>ChromaDB</code> <code>Local models</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shasanksingh/sql-copilot">SQL Copilot</a></h3>
+      <h3>🗄️ <a href="https://github.com/shasanksingh/sql-copilot">SQL Copilot</a></h3>
       <p>Schema-aware analytical copilot that plans intent, generates safer SQL, validates assumptions, and explains results.</p>
       <p><code>Python</code> <code>SQL</code> <code>LLM</code> <code>Validation</code> <code>FastAPI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shasanksingh/semantic-rag-assessment">Semantic RAG Assessment</a></h3>
+      <h3>🔬 <a href="https://github.com/shasanksingh/semantic-rag-assessment">Semantic RAG Assessment</a></h3>
       <p>Focused retrieval implementation for embeddings, semantic matching, vector search, and grounded context preparation.</p>
       <p><code>Python</code> <code>Embeddings</code> <code>Vector search</code> <code>RAG</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shasanksingh/Portfolio">AI Engineering Portfolio</a></h3>
+      <h3>🌐 <a href="https://github.com/shasanksingh/Portfolio">AI Engineering Portfolio</a></h3>
       <p>Multi-page product portfolio with research notes, interactive AI architecture, 3D visuals, and static Netlify delivery.</p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>Framer Motion</code></p>
     </td>
@@ -149,17 +149,17 @@ The agent loop keeps planning, retrieval, memory, tool use, and validation visib
   </a>
 </p>
 
-## Currently Building
+## 🛠️ Currently Building
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ATS Resume AI</h3>
+      <h3>📄 ATS Resume AI</h3>
       <p>Improving grounded role guidance, section-level recommendations, document rebuilding, and evidence-aware evaluation.</p>
       <p><code>RAG</code> <code>FastAPI</code> <code>Local models</code> <code>Next.js</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Copilots and agent workflows</h3>
+      <h3>🧭 Copilots and agent workflows</h3>
       <p>Exploring schema-aware planning, constrained tool use, human review, memory boundaries, and observable execution traces.</p>
       <p><code>Agents</code> <code>SQL</code> <code>Validation</code> <code>Observability</code></p>
     </td>
@@ -177,7 +177,7 @@ The agent loop keeps planning, retrieval, memory, tool use, and validation visib
   - Make AI behavior understandable to the person using it.
 </details>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shasanksingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shashank Singh GitHub statistics" width="47%" />
@@ -188,7 +188,7 @@ The agent loop keeps planning, retrieval, memory, tool use, and validation visib
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasanksingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="92%" />
 </p>
 
-## Connect
+## 🤝 Connect
 
 <p align="center">
   <a href="https://creativegaiety.netlify.app/">
