@@ -72,6 +72,14 @@
 
 The pipeline is treated as an engineered system: expand the request, retrieve evidence, rerank context, constrain generation, and return an answer that can be inspected.
 
+## Agent Workflow
+
+<p align="center">
+  <img src="./assets/agent-loop-3d.svg" alt="Animated 3D agent planning and tool workflow" width="860" />
+</p>
+
+The agent loop keeps planning, retrieval, memory, tool use, and validation visible instead of hiding the workflow behind one prompt.
+
 ## Technology Stack
 
 ### AI and retrieval
@@ -141,12 +149,33 @@ The pipeline is treated as an engineered system: expand the request, retrieve ev
   </a>
 </p>
 
-## Current Engineering Focus
+## Currently Building
 
-- Making RAG answers more grounded through hybrid retrieval, reranking, and evaluation
-- Building constrained AI agents with visible plans, tool boundaries, and review steps
-- Designing FastAPI services that expose model capabilities through reliable product contracts
-- Improving deployment, observability, latency, and failure handling for production AI workflows
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>ATS Resume AI</h3>
+      <p>Improving grounded role guidance, section-level recommendations, document rebuilding, and evidence-aware evaluation.</p>
+      <p><code>RAG</code> <code>FastAPI</code> <code>Local models</code> <code>Next.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Copilots and agent workflows</h3>
+      <p>Exploring schema-aware planning, constrained tool use, human review, memory boundaries, and observable execution traces.</p>
+      <p><code>Agents</code> <code>SQL</code> <code>Validation</code> <code>Observability</code></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Engineering principles I optimize for</strong></summary>
+  <br />
+
+  - Ground before generating.
+  - Keep tool boundaries explicit.
+  - Prefer typed contracts and reviewable outputs.
+  - Measure retrieval and failure behavior, not only response style.
+  - Make AI behavior understandable to the person using it.
+</details>
 
 ## GitHub Activity
 
