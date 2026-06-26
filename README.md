@@ -1,215 +1,161 @@
+# Shashank Singh
+
+> **AI Engineer \| Production AI Systems \| RAG \| AI Agents \|
+> FastAPI**
+
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Systems;Retrieval-Augmented+Generation+(RAG);AI+Agents+%7C+Context+Engineering;FastAPI+%7C+Vector+Databases+%7C+LLMs;Designing+Reliable+AI+Infrastructure" />
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1224,30:1E3A8A,60:2563EB,100:22D3EE&text=Shashank%20Singh&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20LLM%20Systems%20|%20RAG%20|%20AI%20Agents&descAlignY=60&descSize=18"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-
-<a href="https://creativegaiety.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shasanksingh">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/shashank-singh2003">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:singhshasank50@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Systems;Retrieval-Augmented+Generation;AI+Agents+%7C+Context+Engineering;FastAPI+%7C+Vector+Databases+%7C+LLMs;Designing+Reliable+AI+Infrastructure"/>`{=html}
+```{=html}
 </p>
+```
+## 👋 About Me
 
-<table>
-  <tr>
-    <td width="64%" valign="middle">
-      <h2>AI systems with product discipline</h2>
-      <p>
-        I am a Product Engineer at <strong>Tata Consultancy Services</strong>, focused on turning AI capabilities into dependable products. My work combines retrieval, agent workflows, typed backend services, evaluation, and interfaces that make system behavior understandable.
-      </p>
-      <p>
-        <strong>Current focus:</strong> production RAG, AI copilots, FastAPI services, local models, vector search, and intelligent automation.
-      </p>
-    </td>
-    <td width="36%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/b8c5875f-31d5-491d-928b-26d4c3da35f0" alt="Shashank Singh GitHub visual" width="260" />
-    </td>
-  </tr>
-</table>
+I'm an AI Engineer focused on building **production-ready AI systems**
+rather than demos. My work centers on Retrieval-Augmented Generation
+(RAG), AI agents, LLM-powered copilots, FastAPI backends, vector search,
+evaluation pipelines, and intelligent automation.
 
-<p align="center">
-  <img src="./assets/ai-core-3d.svg" alt="Animated 3D production AI system core" width="860" />
-</p>
+## 🧠 AI Engineering Philosophy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shasanksingh&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shasanksingh?label=Followers&style=flat-square&color=06b6d4" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/shasanksingh/ats-resume-ai?label=ATS%20Resume%20AI&style=flat-square&color=f59e0b" alt="ATS Resume AI stars" />
-</p>
+-   Ground before generating.
+-   Keep AI observable and measurable.
+-   Prefer typed APIs and structured outputs.
+-   Design systems that fail safely.
+-   Build products that can be deployed and maintained.
 
-## 🧩 What I Build
+## 🚀 What I Build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔎 Retrieval systems</h3>
-      <p>Chunking, embeddings, hybrid search, vector indexes, reranking, grounded generation, and citation-ready responses.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Agents and copilots</h3>
-      <p>Planning, tool use, schema awareness, validation, memory, and human review for practical workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ AI product backends</h3>
-      <p>FastAPI services, typed contracts, model orchestration, PostgreSQL boundaries, deployment, and observable failure states.</p>
-    </td>
-  </tr>
-</table>
+-   Production RAG Systems
+-   AI Agents & Multi-Agent Workflows
+-   AI Copilots
+-   FastAPI AI Backends
+-   Context Engineering
+-   SQL Intelligence
+-   Resume Intelligence
+-   GraphRAG Experiments
+-   AI Evaluation Pipelines
 
-## 🔄 Production RAG Flow
+## 🏗 Production AI Architecture
 
-<p align="center">
-  <img src="./assets/rag-pipeline-3d.svg" alt="Animated isometric RAG pipeline" width="860" />
-</p>
+``` mermaid
+flowchart TD
+A(User)
+B(API Gateway)
+C(Query Planner)
+D(Retriever)
+E(Vector DB)
+F(Context Builder)
+G(LLM)
+H(Validator)
+I(Response)
 
-The pipeline is treated as an engineered system: expand the request, retrieve evidence, rerank context, constrain generation, and return an answer that can be inspected.
+A-->B
+B-->C
+C-->D
+D-->E
+E-->D
+D-->F
+F-->G
+G-->H
+H-->I
+```
+
+## 🔄 Production RAG Pipeline
+
+``` mermaid
+flowchart LR
+User-->Chunking
+Chunking-->Embedding
+Embedding-->VectorDB
+User-->Retriever
+Retriever-->VectorDB
+Retriever-->Reranker
+Reranker-->Context
+Context-->LLM
+LLM-->Answer
+```
 
 ## 🤖 Agent Workflow
 
-<p align="center">
-  <img src="./assets/agent-loop-3d.svg" alt="Animated 3D agent planning and tool workflow" width="860" />
-</p>
+``` mermaid
+flowchart LR
+Goal-->Planner-->Memory-->Retriever-->Tools-->LLM-->Validator-->Response
+```
 
-The agent loop keeps planning, retrieval, memory, tool use, and validation visible instead of hiding the workflow behind one prompt.
+## 💡 AI Expertise
 
-## 🧰 Technology Stack
+-   Retrieval-Augmented Generation
+-   AI Agents
+-   LangGraph
+-   LangChain
+-   FastAPI
+-   Vector Databases
+-   Embeddings
+-   Hybrid Search
+-   Semantic Search
+-   Prompt Engineering
+-   Context Engineering
+-   AI Evaluation
+-   MCP Concepts
+-   Local LLMs
 
-### AI and retrieval
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
-![FAISS](https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
+**Languages:** Python, SQL, TypeScript, JavaScript
 
-### Backend and data
+**AI:** LangChain, LangGraph, Hugging Face, FAISS, ChromaDB
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=111827)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Backend:** FastAPI, PostgreSQL, Docker
 
-### Product frontend
+**Frontend:** Next.js, React, Tailwind CSS
 
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=flat-square&logo=threedotjs&logoColor=white)
+## ⭐ Featured Projects
 
-## 🚀 Featured Work
+### ATS Resume AI
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/shasanksingh/ats-resume-ai">ATS Resume AI</a></h3>
-      <p>Resume intelligence system with parsing, ATS checks, role-aware retrieval, grounded recommendations, optimization, and document export.</p>
-      <p><code>FastAPI</code> <code>Next.js</code> <code>RAG</code> <code>ChromaDB</code> <code>Local models</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/shasanksingh/sql-copilot">SQL Copilot</a></h3>
-      <p>Schema-aware analytical copilot that plans intent, generates safer SQL, validates assumptions, and explains results.</p>
-      <p><code>Python</code> <code>SQL</code> <code>LLM</code> <code>Validation</code> <code>FastAPI</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/shasanksingh/semantic-rag-assessment">Semantic RAG Assessment</a></h3>
-      <p>Focused retrieval implementation for embeddings, semantic matching, vector search, and grounded context preparation.</p>
-      <p><code>Python</code> <code>Embeddings</code> <code>Vector search</code> <code>RAG</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/shasanksingh/Portfolio">AI Engineering Portfolio</a></h3>
-      <p>Multi-page product portfolio with research notes, interactive AI architecture, 3D visuals, and static Netlify delivery.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>Framer Motion</code></p>
-    </td>
-  </tr>
-</table>
+Production resume intelligence system with parsing, retrieval,
+role-aware recommendations and document generation.
 
-<p align="center">
-  <a href="https://github.com/shasanksingh/ats-resume-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=ats-resume-ai&theme=tokyonight&hide_border=true" alt="ATS Resume AI repository card" width="47%" />
-  </a>
-  <a href="https://github.com/shasanksingh/sql-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shasanksingh&repo=sql-copilot&theme=tokyonight&hide_border=true" alt="SQL Copilot repository card" width="47%" />
-  </a>
-</p>
+### SQL Copilot
 
-## 🛠️ Currently Building
+Schema-aware AI SQL assistant with validation, confidence scoring and
+explainable SQL generation.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 ATS Resume AI</h3>
-      <p>Improving grounded role guidance, section-level recommendations, document rebuilding, and evidence-aware evaluation.</p>
-      <p><code>RAG</code> <code>FastAPI</code> <code>Local models</code> <code>Next.js</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 Copilots and agent workflows</h3>
-      <p>Exploring schema-aware planning, constrained tool use, human review, memory boundaries, and observable execution traces.</p>
-      <p><code>Agents</code> <code>SQL</code> <code>Validation</code> <code>Observability</code></p>
-    </td>
-  </tr>
-</table>
+### Semantic RAG
 
-<details>
-  <summary><strong>Engineering principles I optimize for</strong></summary>
-  <br />
+Embedding, retrieval and grounded generation experiments.
 
-  - Ground before generating.
-  - Keep tool boundaries explicit.
-  - Prefer typed contracts and reviewable outputs.
-  - Measure retrieval and failure behavior, not only response style.
-  - Make AI behavior understandable to the person using it.
-</details>
+## 📈 Current Research
 
-## 📊 GitHub Activity
+-   GraphRAG
+-   Context Engineering
+-   Agent Memory
+-   AI Evaluation
+-   Long Context Models
+-   Structured Outputs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasanksingh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shashank Singh GitHub statistics" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasanksingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" width="39%" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shasanksingh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" width="92%" />
-</p>
+Add: - github-readme-stats - activity graph - streak stats - pinned
+repositories
 
 ## 🤝 Connect
 
-<p align="center">
-  <a href="https://creativegaiety.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-creativegaiety.netlify.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shashank-singh2003/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashank%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:singhshasank50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-singhshasank50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+-   Portfolio: https://creativegaiety.netlify.app/
+-   LinkedIn: https://linkedin.com/in/shashank-singh2003
+-   GitHub: https://github.com/shasanksingh
+-   Email: singhshasank50@gmail.com
 
-<p align="center">
-  <strong>Building AI products that are useful, inspectable, and ready to ship.</strong>
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,52:2563EB,100:0B1224&height=90&section=footer" alt="Footer wave" width="100%" />
-</p>
+> **Building AI systems that retrieve, reason, plan, validate and
+> scale.**
