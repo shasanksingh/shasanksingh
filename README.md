@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1224,48:2563EB,100:22D3EE&height=150&section=header&text=Shashank%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Product%20Engineer%20%7C%20Backend%20Systems&descAlignY=57&descSize=15" alt="Shashank Singh profile banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Systems;Retrieval-Augmented+Generation+(RAG);AI+Agents+%7C+Context+Engineering;FastAPI+%7C+Vector+Databases+%7C+LLMs;Designing+Reliable+AI+Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=42&lines=Building+production-ready+AI+systems;RAG+pipelines%2C+AI+agents%2C+and+FastAPI;Grounded+LLM+products+with+clean+UX" alt="Typing introduction" />
-</p>
 
-<p align="center">
-  <a href="https://creativegaiety.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shashank-singh2003/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:singhshasank50@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://creativegaiety.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shasanksingh">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shashank-singh2003">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:singhshasank50@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 <table>
