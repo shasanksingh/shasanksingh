@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">AI workflow map</title>
+  <desc id="desc">A clean workflow map showing prompt, retrieve, plan, tool call, validate, and ship stages.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#a5f3fc"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#bbf7d0"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fde68a"/>
+      <stop offset="1" stop-color="#d97706"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#0f172a" flood-opacity=".20"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 10 5 0 10z" fill="#0e7490"/>
+    </marker>
+    <style>
+      .title { fill:#0f172a; font:800 30px Inter, Segoe UI, Arial, sans-serif; }
+      .sub { fill:#475569; font:500 14px Inter, Segoe UI, Arial, sans-serif; }
+      .step { fill:#0f172a; font:800 15px Inter, Segoe UI, Arial, sans-serif; }
+      .tiny { fill:#64748b; font:600 11px Inter, Segoe UI, Arial, sans-serif; }
+      .white { fill:#f8fafc; font:800 15px Inter, Segoe UI, Arial, sans-serif; }
+      .line { stroke:#0e7490; stroke-width:2.5; fill:none; marker-end:url(#arrow); opacity:.72; }
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <text x="56" y="62" class="title">How I Build AI Features</text>
+  <text x="58" y="90" class="sub">A repeatable path across SQL Copilot, MemoraeAI, Knowledge-System, and retrieval projects.</text>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(58 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#cyan)"/>
+      <path d="M45 32h40M65 18v28" stroke="#0f172a" stroke-width="6" stroke-linecap="round"/>
+      <text x="22" y="92" class="step">Prompt</text>
+      <text x="22" y="118" class="tiny">intent and task</text>
+    </g>
+    <g transform="translate(226 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#violet)"/>
+      <circle cx="50" cy="30" r="8" fill="#fff"/>
+      <circle cx="82" cy="22" r="8" fill="#fff"/>
+      <circle cx="80" cy="46" r="8" fill="#fff"/>
+      <path d="M57 29l18-5M57 35l16 8" stroke="#eef2ff" stroke-width="4"/>
+      <text x="22" y="92" class="step">Retrieve</text>
+      <text x="22" y="118" class="tiny">evidence layer</text>
+    </g>
+    <g transform="translate(394 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#green)"/>
+      <path d="M46 22h38M46 38h28M46 52h20" stroke="#052e16" stroke-width="5" stroke-linecap="round"/>
+      <text x="22" y="92" class="step">Plan</text>
+      <text x="22" y="118" class="tiny">workflow graph</text>
+    </g>
+    <g transform="translate(562 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#amber)"/>
+      <path d="M47 34h36M65 18v34" stroke="#422006" stroke-width="6" stroke-linecap="round"/>
+      <text x="22" y="92" class="step">Call tools</text>
+      <text x="22" y="118" class="tiny">model or API</text>
+    </g>
+    <g transform="translate(730 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#cyan)"/>
+      <path d="M46 33l14 14 28-31" stroke="#0f172a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="22" y="92" class="step">Validate</text>
+      <text x="22" y="118" class="tiny">guardrails</text>
+    </g>
+    <g transform="translate(898 142)">
+      <rect x="0" y="14" width="130" height="126" rx="16" fill="#fff" stroke="#cbd5e1"/>
+      <rect x="20" width="90" height="64" rx="14" fill="url(#violet)"/>
+      <path d="M48 48c8-28 28-28 36 0" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M66 46l16-18" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+      <text x="22" y="92" class="step">Explain</text>
+      <text x="22" y="118" class="tiny">trace and state</text>
+    </g>
+    <g transform="translate(1066 142)">
+      <rect x="0" y="14" width="96" height="126" rx="16" fill="url(#dark)" stroke="#334155"/>
+      <rect x="18" width="60" height="64" rx="14" fill="url(#green)"/>
+      <text x="31" y="39" class="white">UX</text>
+      <text x="20" y="92" class="white">Ship</text>
+      <text x="20" y="118" class="tiny">usable flow</text>
+    </g>
+  </g>
+  <path class="line" d="M188 219h32"/>
+  <path class="line" d="M356 219h32"/>
+  <path class="line" d="M524 219h32"/>
+  <path class="line" d="M692 219h32"/>
+  <path class="line" d="M860 219h32"/>
+  <path class="line" d="M1028 219h32"/>
+</svg>
