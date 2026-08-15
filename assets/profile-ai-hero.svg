@@ -79,19 +79,19 @@
   <circle cx="610" cy="316" r="4" fill="#34D399" filter="url(#glow)"/>
   <circle cx="570" cy="74" r="4" fill="#FBBF24" filter="url(#glow)"/>
 
-  <text x="70" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#67E8F9" letter-spacing="3">AI ENGINEERING LAB</text>
-  <text x="70" y="174" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">Shashank Singh</text>
-  <text x="73" y="216" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#CBD5E1">Agentic Systems | RAG | SQL Copilots | Knowledge Graphs</text>
-  <text x="73" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#94A3B8">I design AI products that retrieve context, plan actions, validate outputs, and explain decisions.</text>
+  <text x="70" y="108" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="19" font-weight="700" fill="#67E8F9" letter-spacing="3">AI ENGINEERING LAB</text>
+  <text x="70" y="174" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">Shashank Singh</text>
+  <text x="73" y="216" font-family="Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#CBD5E1">Agentic Systems | RAG | SQL Copilots | Knowledge Graphs</text>
+  <text x="73" y="256" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#94A3B8">I design AI products that retrieve context, plan actions, validate outputs, and explain decisions.</text>
 
   <g transform="translate(70 292)">
     <rect x="0" y="0" width="138" height="38" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.5"/>
-    <text x="69" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#E0F2FE">LangGraph</text>
+    <text x="69" y="25" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="14" font-weight="700" fill="#E0F2FE">LangGraph</text>
     <rect x="152" y="0" width="105" height="38" rx="12" fill="#0F172A" stroke="#34D399" stroke-opacity="0.5"/>
-    <text x="204.5" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#D1FAE5">RAG</text>
+    <text x="204.5" y="25" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="14" font-weight="700" fill="#D1FAE5">RAG</text>
     <rect x="271" y="0" width="118" height="38" rx="12" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.5"/>
-    <text x="330" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#EDE9FE">FastAPI</text>
+    <text x="330" y="25" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="14" font-weight="700" fill="#EDE9FE">FastAPI</text>
     <rect x="403" y="0" width="150" height="38" rx="12" fill="#0F172A" stroke="#FBBF24" stroke-opacity="0.5"/>
-    <text x="478" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#FEF3C7">Next.js UX</text>
+    <text x="478" y="25" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="14" font-weight="700" fill="#FEF3C7">Next.js UX</text>
   </g>
 </svg>

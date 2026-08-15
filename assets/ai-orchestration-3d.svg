@@ -36,51 +36,51 @@
   <path d="M70 93H1030" stroke="#64748B" stroke-opacity="0.16"/>
   <path d="M70 315H1030" stroke="#64748B" stroke-opacity="0.16"/>
 
-  <text x="62" y="58" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">AI Orchestration Pattern</text>
-  <text x="62" y="84" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#94A3B8">A product-grade loop for answers, SQL, reports, and actions.</text>
+  <text x="62" y="58" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800" fill="#F8FAFC">AI Orchestration Pattern</text>
+  <text x="62" y="84" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#94A3B8">A product-grade loop for answers, SQL, reports, and actions.</text>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#shadow)">
+  <g font-family="Segoe UI,Arial,sans-serif" filter="url(#shadow)">
     <g transform="translate(70 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topBlue)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#0B3B60"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#0E2458"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#F8FAFC">INTENT</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#DBEAFE">prompt + task</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">INTENT</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#DBEAFE">prompt + task</text>
     </g>
     <g transform="translate(245 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topGreen)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#14532D"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#166534"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#052E16">RAG</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#052E16">docs + schema</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#052E16">RAG</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#052E16">docs + schema</text>
     </g>
     <g transform="translate(420 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topPurple)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#312E81"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#4C1D95"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#F8FAFC">PLANNER</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#F5F3FF">workflow graph</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">PLANNER</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#F5F3FF">workflow graph</text>
     </g>
     <g transform="translate(595 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topBlue)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#0B3B60"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#0E2458"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#F8FAFC">TOOLS</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#DBEAFE">SQL + APIs</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#F8FAFC">TOOLS</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#DBEAFE">SQL + APIs</text>
     </g>
     <g transform="translate(770 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topAmber)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#78350F"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#92400E"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#451A03">VALIDATE</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#451A03">confidence gate</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#451A03">VALIDATE</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#451A03">confidence gate</text>
     </g>
-    <g transform="translate(945 148)">
+    <g transform="translate(925 148)">
       <path d="M0 42L80 0L160 42L80 84L0 42Z" fill="url(#topGreen)"/>
       <path d="M0 42V86L80 128V84L0 42Z" fill="#14532D"/>
       <path d="M160 42V86L80 128V84L160 42Z" fill="#166534"/>
-      <text x="80" y="44" text-anchor="middle" font-size="15" font-weight="800" fill="#052E16">SHIP</text>
-      <text x="80" y="70" text-anchor="middle" font-size="11" fill="#052E16">answer + UI</text>
+      <text x="80" y="44" text-anchor="middle" font-family="Orbitron,Trebuchet MS,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800" fill="#052E16">SHIP</text>
+      <text x="80" y="70" text-anchor="middle" font-family="Cascadia Mono,Consolas,Courier New,monospace" font-size="11" fill="#052E16">answer + UI</text>
     </g>
   </g>
 
@@ -89,11 +89,14 @@
     <path d="M389 190H417"/>
     <path d="M564 190H592"/>
     <path d="M739 190H767"/>
-    <path d="M914 190H942"/>
+    <path d="M914 190H922"/>
   </g>
 
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <rect x="90" y="332" width="920" height="44" rx="15" fill="#020617" stroke="#38BDF8" stroke-opacity="0.25"/>
-    <text x="550" y="360" text-anchor="middle" font-size="15" fill="#CBD5E1">Low confidence does not pretend. It asks for clarification, retrieves better context, or falls back to deterministic logic.</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="90" y="326" width="920" height="58" rx="15" fill="#020617" stroke="#38BDF8" stroke-opacity="0.25"/>
+    <text x="550" y="349" text-anchor="middle" font-size="14" fill="#CBD5E1">
+      <tspan x="550" dy="0">Low confidence asks for clarification or retrieves better context.</tspan>
+      <tspan x="550" dy="20">Fallback logic stays visible instead of becoming a hidden failure.</tspan>
+    </text>
   </g>
 </svg>
