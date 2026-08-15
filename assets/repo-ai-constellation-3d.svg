@@ -1,0 +1,94 @@
+<svg width="1100" height="470" viewBox="0 0 1100 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI repository constellation</title>
+  <desc id="desc">A 3D constellation connecting AI copilot, memory, knowledge, RAG, agent, and product repositories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#030712"/>
+    </linearGradient>
+    <linearGradient id="nodeBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="nodeGreen" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#BBF7D0"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="nodePurple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#DDD6FE"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="13" flood-color="#000" flood-opacity="0.75"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1100" height="470" rx="30" fill="url(#bg)"/>
+  <path d="M84 379C205 268 281 325 397 227C501 139 631 95 730 151C849 218 930 147 1022 79" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="2"/>
+  <path d="M118 112C277 177 375 108 522 202C642 279 753 321 982 262" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g stroke-width="2" stroke-opacity="0.55">
+    <path d="M550 228L300 152" stroke="#38BDF8"/>
+    <path d="M550 228L270 318" stroke="#38BDF8"/>
+    <path d="M550 228L820 142" stroke="#34D399"/>
+    <path d="M550 228L847 321" stroke="#34D399"/>
+    <path d="M550 228L550 95" stroke="#A78BFA"/>
+    <path d="M550 228L550 370" stroke="#A78BFA"/>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#shadow)">
+    <g transform="translate(450 168)">
+      <path d="M0 60L100 0L200 60L100 120L0 60Z" fill="url(#nodeBlue)" />
+      <path d="M0 60V92L100 152V120L0 60Z" fill="#0B3B60"/>
+      <path d="M200 60V92L100 152V120L200 60Z" fill="#0E2458"/>
+      <text x="100" y="58" text-anchor="middle" font-size="19" font-weight="900" fill="#F8FAFC">AI BUILDER</text>
+      <text x="100" y="84" text-anchor="middle" font-size="12" font-weight="700" fill="#DBEAFE">systems that reason</text>
+    </g>
+
+    <g transform="translate(176 112)">
+      <rect x="0" y="0" width="248" height="78" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodeBlue)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">SQL Copilot</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">Text-to-SQL + validation</text>
+    </g>
+
+    <g transform="translate(138 294)">
+      <rect x="0" y="0" width="264" height="78" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodePurple)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">ATS Resume AI</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">Document RAG + scoring</text>
+    </g>
+
+    <g transform="translate(430 48)">
+      <rect x="0" y="0" width="240" height="78" rx="18" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodePurple)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">Knowledge-System</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">Graph QA + evidence</text>
+    </g>
+
+    <g transform="translate(441 356)">
+      <rect x="0" y="0" width="218" height="78" rx="18" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodeGreen)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">MemoraeAI</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">Personal memory OS</text>
+    </g>
+
+    <g transform="translate(715 102)">
+      <rect x="0" y="0" width="260" height="78" rx="18" fill="#0F172A" stroke="#34D399" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodeGreen)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">Agent Workflows</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">refunds, payments, tools</text>
+    </g>
+
+    <g transform="translate(730 294)">
+      <rect x="0" y="0" width="258" height="78" rx="18" fill="#0F172A" stroke="#34D399" stroke-opacity="0.5"/>
+      <circle cx="38" cy="39" r="18" fill="url(#nodeBlue)" filter="url(#glow)"/>
+      <text x="72" y="34" font-size="17" font-weight="800" fill="#F8FAFC">Product UI</text>
+      <text x="72" y="56" font-size="12" fill="#94A3B8">Next.js dashboards + UX</text>
+    </g>
+  </g>
+</svg>

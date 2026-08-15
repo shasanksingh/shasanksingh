@@ -1,0 +1,90 @@
+<svg width="1100" height="560" viewBox="0 0 1100 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Featured AI systems</title>
+  <desc id="desc">Four 3D project cards for SQL Copilot, MemoraeAI, Knowledge-System, and ATS Resume AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#86EFAC"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="15" flood-color="#000814" flood-opacity="0.72"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1100" height="560" rx="30" fill="url(#bg)"/>
+  <path d="M62 112H1038M62 280H1038M62 448H1038" stroke="#94A3B8" stroke-opacity="0.08"/>
+  <path d="M180 72V500M550 72V500M920 72V500" stroke="#94A3B8" stroke-opacity="0.08"/>
+  <text x="64" y="62" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800" fill="#F8FAFC">Featured AI Systems</text>
+  <text x="64" y="90" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#94A3B8">Repository-backed products across copilots, memory, knowledge, and document intelligence.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" filter="url(#cardShadow)">
+    <g transform="translate(70 130)">
+      <path d="M0 30L45 0H450L496 30V196H0V30Z" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45"/>
+      <path d="M0 30L45 0H450L496 30H0Z" fill="url(#blue)" opacity="0.95"/>
+      <path d="M450 0L496 30V196L450 166V0Z" fill="#0E2458"/>
+      <rect x="28" y="61" width="76" height="76" rx="18" fill="#082F49" stroke="#67E8F9" stroke-opacity="0.5"/>
+      <path d="M46 99L66 79L86 99L66 119L46 99Z" fill="#67E8F9" filter="url(#glow)"/>
+      <text x="128" y="82" font-size="25" font-weight="800" fill="#F8FAFC">SQL Copilot</text>
+      <text x="128" y="110" font-size="14" fill="#BAE6FD">Text-to-SQL agent workspace</text>
+      <text x="128" y="142" font-size="13" fill="#CBD5E1">Schema grounding, LangGraph planning, NVIDIA LLM assist, validation, fallback, relationship graph UI.</text>
+      <text x="28" y="174" font-size="12" font-weight="700" fill="#E0F2FE">Python | Flask | Next.js | RAG | SQL validation</text>
+    </g>
+
+    <g transform="translate(596 130)">
+      <path d="M0 30L45 0H390L436 30V196H0V30Z" fill="#0F172A" stroke="#34D399" stroke-opacity="0.45"/>
+      <path d="M0 30L45 0H390L436 30H0Z" fill="url(#green)" opacity="0.95"/>
+      <path d="M390 0L436 30V196L390 166V0Z" fill="#14532D"/>
+      <rect x="28" y="61" width="76" height="76" rx="18" fill="#052E16" stroke="#86EFAC" stroke-opacity="0.5"/>
+      <circle cx="66" cy="99" r="25" fill="#86EFAC" filter="url(#glow)"/>
+      <circle cx="66" cy="99" r="11" fill="#052E16"/>
+      <text x="128" y="82" font-size="25" font-weight="800" fill="#F8FAFC">MemoraeAI</text>
+      <text x="128" y="110" font-size="14" fill="#BBF7D0">Personal intelligence OS</text>
+      <text x="128" y="142" font-size="13" fill="#CBD5E1">Evidence-first memory across messages, notes, calendars, tasks, meetings, and relationships.</text>
+      <text x="28" y="174" font-size="12" font-weight="700" fill="#DCFCE7">Python | Agents | Memory | Automation</text>
+    </g>
+
+    <g transform="translate(70 330)">
+      <path d="M0 30L45 0H450L496 30V156H0V30Z" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.45"/>
+      <path d="M0 30L45 0H450L496 30H0Z" fill="url(#purple)" opacity="0.95"/>
+      <path d="M450 0L496 30V156L450 126V0Z" fill="#4C1D95"/>
+      <rect x="28" y="58" width="68" height="68" rx="16" fill="#1E1B4B" stroke="#C4B5FD" stroke-opacity="0.55"/>
+      <path d="M62 70L88 96L62 122L36 96L62 70Z" fill="#C4B5FD" filter="url(#glow)"/>
+      <path d="M62 82L76 96L62 110L48 96L62 82Z" fill="#1E1B4B"/>
+      <text x="124" y="78" font-size="24" font-weight="800" fill="#F8FAFC">Knowledge-System</text>
+      <text x="124" y="107" font-size="14" fill="#EDE9FE">Graph-backed explainable QA</text>
+      <text x="124" y="137" font-size="13" fill="#CBD5E1">Connected team knowledge with evidence paths and retrieval-first answers.</text>
+    </g>
+
+    <g transform="translate(596 330)">
+      <path d="M0 30L45 0H390L436 30V156H0V30Z" fill="#0F172A" stroke="#FBBF24" stroke-opacity="0.45"/>
+      <path d="M0 30L45 0H390L436 30H0Z" fill="url(#amber)" opacity="0.95"/>
+      <path d="M390 0L436 30V156L390 126V0Z" fill="#78350F"/>
+      <rect x="28" y="58" width="68" height="68" rx="16" fill="#451A03" stroke="#FDE68A" stroke-opacity="0.55"/>
+      <path d="M44 78H80V114H44V78Z" fill="#FDE68A" filter="url(#glow)"/>
+      <path d="M52 89H72M52 100H72" stroke="#451A03" stroke-width="4"/>
+      <text x="124" y="78" font-size="24" font-weight="800" fill="#F8FAFC">ATS Resume AI</text>
+      <text x="124" y="107" font-size="14" fill="#FEF3C7">Document intelligence workflow</text>
+      <text x="124" y="137" font-size="13" fill="#CBD5E1">RAG-backed scoring, parsing, recommendations, optimization, and export flow.</text>
+    </g>
+  </g>
+</svg>

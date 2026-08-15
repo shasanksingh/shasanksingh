@@ -1,0 +1,97 @@
+<svg width="1100" height="380" viewBox="0 0 1100 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shashank Singh AI profile hero</title>
+  <desc id="desc">A dark 3D AI command center banner for Shashank Singh, focused on agentic systems, RAG, SQL copilots, and product engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#081A3A"/>
+      <stop offset="1" stop-color="#06121F"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#BBF7D0"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.65"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#38BDF8" flood-opacity="0.18"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#38BDF8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="380" rx="34" fill="url(#bg)"/>
+  <rect width="1100" height="380" rx="34" fill="url(#grid)"/>
+  <path d="M62 307C207 248 324 331 474 260C640 181 763 56 1037 78" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M44 95C202 53 343 119 463 119C652 119 744 20 1028 35" stroke="#A78BFA" stroke-opacity="0.2" stroke-width="2"/>
+
+  <g filter="url(#shadow)">
+    <path d="M765 238L895 163L1025 238L895 313L765 238Z" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="2"/>
+    <path d="M765 238V263L895 338V313L765 238Z" fill="#0B1220"/>
+    <path d="M1025 238V263L895 338V313L1025 238Z" fill="#111C32"/>
+    <path d="M820 238L895 195L970 238L895 281L820 238Z" fill="url(#cyan)" opacity="0.9"/>
+    <path d="M852 238L895 214L938 238L895 263L852 238Z" fill="#020617" opacity="0.68"/>
+    <circle cx="895" cy="238" r="13" fill="#67E8F9" filter="url(#glow)"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M716 122L779 86L842 122L779 158L716 122Z" fill="#101A2E" stroke="#A78BFA" stroke-opacity="0.7"/>
+    <path d="M716 122V140L779 176V158L716 122Z" fill="#0A1020"/>
+    <path d="M842 122V140L779 176V158L842 122Z" fill="#151F38"/>
+    <text x="779" y="128" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#EDE9FE">RAG</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M880 95L943 59L1006 95L943 131L880 95Z" fill="#101A2E" stroke="#34D399" stroke-opacity="0.75"/>
+    <path d="M880 95V113L943 149V131L880 95Z" fill="#07140F"/>
+    <path d="M1006 95V113L943 149V131L1006 95Z" fill="#123027"/>
+    <text x="943" y="101" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#D1FAE5">SQL</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <path d="M690 278L753 242L816 278L753 314L690 278Z" fill="#101A2E" stroke="#FBBF24" stroke-opacity="0.7"/>
+    <path d="M690 278V296L753 332V314L690 278Z" fill="#171104"/>
+    <path d="M816 278V296L753 332V314L816 278Z" fill="#35270B"/>
+    <text x="753" y="284" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#FEF3C7">AGENT</text>
+  </g>
+
+  <path d="M779 158L895 219" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="2"/>
+  <path d="M943 131L910 218" stroke="#34D399" stroke-opacity="0.6" stroke-width="2"/>
+  <path d="M753 278L861 249" stroke="#FBBF24" stroke-opacity="0.55" stroke-width="2"/>
+
+  <circle cx="125" cy="72" r="6" fill="#67E8F9" filter="url(#glow)"/>
+  <circle cx="1014" cy="314" r="5" fill="#A78BFA" filter="url(#glow)"/>
+  <circle cx="610" cy="316" r="4" fill="#34D399" filter="url(#glow)"/>
+  <circle cx="570" cy="74" r="4" fill="#FBBF24" filter="url(#glow)"/>
+
+  <text x="70" y="108" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#67E8F9" letter-spacing="3">AI ENGINEERING LAB</text>
+  <text x="70" y="174" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">Shashank Singh</text>
+  <text x="73" y="216" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#CBD5E1">Agentic Systems | RAG | SQL Copilots | Knowledge Graphs</text>
+  <text x="73" y="256" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#94A3B8">I design AI products that retrieve context, plan actions, validate outputs, and explain decisions.</text>
+
+  <g transform="translate(70 292)">
+    <rect x="0" y="0" width="138" height="38" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.5"/>
+    <text x="69" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#E0F2FE">LangGraph</text>
+    <rect x="152" y="0" width="105" height="38" rx="12" fill="#0F172A" stroke="#34D399" stroke-opacity="0.5"/>
+    <text x="204.5" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#D1FAE5">RAG</text>
+    <rect x="271" y="0" width="118" height="38" rx="12" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <text x="330" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#EDE9FE">FastAPI</text>
+    <rect x="403" y="0" width="150" height="38" rx="12" fill="#0F172A" stroke="#FBBF24" stroke-opacity="0.5"/>
+    <text x="478" y="25" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#FEF3C7">Next.js UX</text>
+  </g>
+</svg>
